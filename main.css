@@ -19,7 +19,7 @@ body {
 }
 
 #quoteBtn:hover {
-    color: #ffd000;
+    font-weight: 900;
 }
 
 blockquote {
